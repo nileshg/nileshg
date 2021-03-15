@@ -2,7 +2,7 @@
 - 👀 I’m interested in Tailwind CSS, Next.js, Firebase
 - 🌱 I’m currently learning Svelte
 - 💞️ I’m looking to collaborate on SaaS product
-- 📫 How to reach me ...
+- 📫 How to reach me nileshg@salttechno.com
 
 <!---
 nileshg/nileshg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
