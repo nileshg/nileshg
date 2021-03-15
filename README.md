@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nileshg
-- 👀 I’m interested in Tailiwind CSS, Next.js, Firebase
+- 👀 I’m interested in Tailwind CSS, Next.js, Firebase
 - 🌱 I’m currently learning Svelte
 - 💞️ I’m looking to collaborate on SaaS product
 - 📫 How to reach me ...
